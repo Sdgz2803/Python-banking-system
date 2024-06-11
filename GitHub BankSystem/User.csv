@@ -194,7 +194,7 @@ User ID;First Name;Last Name;Email Address;Account Type;Account Number;Balance;P
 1193;Caleb;Wright;caleb.wright@example.com;Savings;1367789012;$3900.00;calebwright
 1194;Zoey;Hill;zoey.hill@example.com;Checking;1378890123;$3100.00;zoeyhill
 1195;William;Scott;william.scott@example.com;Investment;1389901234;$3500.00;williamscott
-1196;Madison;Green;madison.green@example.com;Credit Card;1390012345;$5100.00;madisongreen,
+1196;Madison;Green;madison.green@example.com;Credit Card;1390012345;$5100.00;madisongreen
 1197;Liam;Adams;liam.adams@example.com;Loan;1401123456;$3300.00;liamadams
 1198;Riley;Baker;riley.baker@example.com;Mortgage;1412234567;$2800.00;rileybaker
 1199;Jameson;Gonzalez;jameson.gonzalez@example.com;Savings;1423345678;$4300.00;jamesongonzalez
