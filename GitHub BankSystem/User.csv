@@ -222,7 +222,7 @@ User ID;First Name;Last Name;Email Address;Account Type;Account Number;Balance;P
 1221;Benjamin;Stewart;benjamin.stewart@example.com;Loan;1645567890;$3200.00;benjaminstewart
 1222;Aubrey;Cruz;aubrey.cruz@example.com;Mortgage;1656678901;$2700.00;aubreycruz
 1223;Grayson;Edwards;grayson.edwards@example.com;Savings;1667789012;$5100.00;graysonedwards
-1224;Mia;Collins;mia.collins@example.com;Checking;1678890123;$3300.00;miacollins,
+1224;Mia;Collins;mia.collins@example.com;Checking;1678890123;$3300.00;miacollins
 1225;Jackson;Richardson;jackson.richardson@example.com;Investment;1689901234;$4900.00;jacksonrichardson
 1226;Luna;Ross;luna.ross@example.com;Credit Card;1690012345;$3200.00;lunaross
 1227;Logan;Foster;logan.foster@example.com;Loan;1701123456;$2700.00;loganfoster
