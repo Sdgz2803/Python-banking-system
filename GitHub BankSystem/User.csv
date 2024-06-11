@@ -212,7 +212,7 @@ User ID;First Name;Last Name;Email Address;Account Type;Account Number;Balance;P
 1211;James;Richardson;james.richardson@example.com;Savings;1545567890;$3900.00;jamesrichardson
 1212;Sophia;Cox;sophia.cox@example.com;Checking;1556678901;$3100.00;sophiacox
 1213;Oliver;Howard;oliver.howard@example.com;Investment;1567789012;$3500.00;oliverhoward
-1214;Charlotte;Ward;charlotte.ward@example.com;Credit Card;1578890123;$5100.00;charlotteward,
+1214;Charlotte;Ward;charlotte.ward@example.com;Credit Card;1578890123;$5100.00;charlotteward
 1215;Ethan;Torres;ethan.torres@example.com;Loan;1589901234;$3300.00;ethantorres
 1216;Grace;Peterson;grace.peterson@example.com;Mortgage;1590012345;$2800.00;gracepeterson
 1217;Henry;Gray;henry.gray@example.com;Savings;1601123456;$4300.00;henrygray
